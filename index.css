@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://i.ibb.co/Yc1WFJG/sava-bobov-YNE8-BNP5-UGA-unsplash.jpg");
+    url("https://images.unsplash.com/photo-1505771215590-c5fa0aec29b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://i.ibb.co/Yc1WFJG/sava-bobov-YNE8-BNP5-UGA-unsplash.jpg") center center fixed;
+    url("https://images.unsplash.com/photo-1505771215590-c5fa0aec29b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://i.ibb.co/Yc1WFJG/sava-bobov-YNE8-BNP5-UGA-unsplash.jpg") !important;
+      url("https://images.unsplash.com/photo-1505771215590-c5fa0aec29b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8") !important;
   }
 }
